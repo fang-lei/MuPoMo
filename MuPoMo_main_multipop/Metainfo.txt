@@ -13,3 +13,7 @@ See also :         ‘MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization,
 Author :            Lei Fang
 
 Submitted :         Mon, June 13 2016 by Lei Fang
+
+Example : 
+- Multi-Population model with German data
+- Multi-Population model with Japanese data
