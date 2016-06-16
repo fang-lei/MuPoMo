@@ -1,6 +1,6 @@
 Name of QuantLet :  MuPoMo_data
 
-Published in :      MuPoMo
+Published in :      MuPoMo (Mortality Model for Multip-populations: A Semiparametric Comparison Approach)
 
 Description :      'Reads data from Human Mortality Database and calculate kt, and will be called
                     in MuPoMo_main_twopop and MuPoMo_main_multipop.’

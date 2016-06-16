@@ -1,6 +1,6 @@
 Name of QuantLet :  MuPoMo_main_twopop
 
-Published in :      MuPoMo
+Published in :      MuPoMo (Mortality Model for Multip-populations: A Semiparametric Comparison Approach)
 
 Description :      'Estimates and forecasts mortality rates based on a semi-parametric approach, which applies parametric modelling for 
                     multiple nonparametric curves with the shape-related nonlinear variation. Uses random two countries to demonstrate 

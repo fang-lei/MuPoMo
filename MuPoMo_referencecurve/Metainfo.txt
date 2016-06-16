@@ -1,6 +1,6 @@
 Name of QuantLet :  MuPoMo_referencecurve
 
-Published in :      MuPoMo
+Published in :      MuPoMo (Mortality Model for Multip-populations: A Semiparametric Comparison Approach)
 
 Description :      'Regenerates reference curve (common trend) based on normalized optimal theta parameters and smoothed original kt, 
                     and will be called in MuPoMo_main_multipop.’
