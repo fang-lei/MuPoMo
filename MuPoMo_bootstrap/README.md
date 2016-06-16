@@ -30,7 +30,7 @@ Example :
 ```
 
 ![Picture1](Prediction intervals at different levels.pdf)
-![Picture1](Histogram of theta1.pdf)
+![Picture2](Histogram of theta1.pdf)
 
 ```R
 # clear history and close windows
