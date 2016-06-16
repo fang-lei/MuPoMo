@@ -21,7 +21,7 @@ See also :         ‘MuPoMo_optimization, MuPoMo_normalization, MuPoMo_referenc
 Author :            Lei Fang
 
 Submitted :         Mon, June 13 2016 by Lei Fang
-
+```
 
 ```R
 
