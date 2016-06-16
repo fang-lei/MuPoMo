@@ -28,10 +28,8 @@ Example :
 
 ```
 
-![Picture1](Multi-Population model with German data.pdf)
-
-```
-![Picture2](Multi-Population model with Japanese data.pdf)
+![Picture1](Multi-Population model with German data.png)
+![Picture1](Multi-Population model with Japanese data.png)
 
 ```R
 # clear history and close windows
