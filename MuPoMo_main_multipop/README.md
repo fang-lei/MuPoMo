@@ -11,12 +11,12 @@ Name of QuantLet :  MuPoMo_main_multipop
 Published in :      MuPoMo (Mortality Model for Multip-populations: A Semiparametric Comparison Approach)
 
 Description :      'Estimates and forecasts mortality rates based on a semi-parametric approach, which applies parametric modelling for 
-                    multiple nonparametric smoothed curves with the shape-related nonlinear variation.’
+                    multiple nonparametric smoothed curves with the shape-related nonlinear variation.'
 
-Keywords :         ‘time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method’
+Keywords :         'time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method'
 
-See also :         ‘MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, 
-                    MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_bootstrap’
+See also :         'MuPoMo_data, MuPoMo_optimization, MuPoMo_normalization, 
+                    MuPoMo_referencecurve, MuPoMo_main_twopop, MuPoMo_bootstrap'
 
 Author :            Lei Fang
 
@@ -25,7 +25,6 @@ Submitted :         Mon, June 13 2016 by Lei Fang
 Example : 
 - Multi-Population model with German data
 - Multi-Population model with Japanese data
-
 ```
 
 ![Picture1](Multi-Population model with German data.png)
