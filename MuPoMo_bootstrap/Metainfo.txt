@@ -2,8 +2,7 @@ Name of QuantLet :  MuPoMo_bootstrap
 
 Published in :      MuPoMo
 
-Description :      ‘Forecasts mortality rates based on a semi-parametric approach, and bootstraps time series with innovation to compute
-                    the prediction intervals. Uses random two countries to demonstrate.’
+Description :      'Forecasts mortality rates based on a semi-parametric approach, and bootstraps time series with innovation to compute the prediction intervals. Uses random two countries to demonstrate.'
 
 Keywords :         ‘time series, demography, mortality, population, nonparametric smoothing, parametric modelling, Lee-Carter method,
                     bootstrap’
